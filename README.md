@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Afifa! 👋
 
-<!--
-**afifatima52-blip/afifatima52-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm learning Python and Data Science step by step and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Skills I'm Learning
+- Python
+- NumPy
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization with Matplotlib
+
+### 📊 My First Project
+**Students Marks Analysis**
+
+A beginner Data Science project built with Python, Pandas, NumPy, and Matplotlib.
+
+🔗 [View My Project](https://github.com/afifatima52-blip/students-marks-analysis)
+
+### 🎯 My Goal
+To become a Data Scientist by practicing coding and building useful projects.
+
+### 🌸 Thanks for Visiting My Profile!
 -->
