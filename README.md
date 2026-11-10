@@ -46,6 +46,26 @@ A Data Science project involving data cleaning, exploratory analysis, interactiv
 
 ---
 
+## 📊 My Data Analytics Projects
+
+### 🛒 Retail Sales Analysis and Prediction
+
+An end-to-end Data Analytics and Machine Learning project
+focused on analyzing retail sales data and predicting sales.
+
+**Tools & Technologies:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+**Project Repository:**
+[View Retail Sales Analysis and Prediction](https://github.com/afifatima52-blip/Retail-Sales-Analysis-and-Prediction)
+
+**Project Report:**
+[View PDF Report](https://github.com/afifatima52-blip/Retail-Sales-Analysis-and-Prediction/blob/main/Reports/Retail_Sales_Analysis_Report.pdf)
 ## 📚 Currently Learning
 
 - Advanced Python for Data Science
